@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sarthaklambaa
+- 👨🏻‍🎓 I'm currently pursuing Bachelor's in Computer Applications
 - 👀 I’m interested in Python, JavaScript and Other Technical Stuff
 - 🌱 I’m currently learning Python(Flask) and JavaScript
 
