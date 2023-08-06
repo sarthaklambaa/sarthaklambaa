@@ -11,3 +11,10 @@
 [![Website](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/owbgzc89nrg9mm8ga4eyzngnt?si=209592d938a344d4/)
 
 <br>
+
+#### My Stats:
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaklambaa&show_icons=true&include_all_commits=true&hide_border=true" alt="Sarthak's Github Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaklambaa&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br>
