@@ -38,7 +38,7 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
-
+## 📊GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarthaklambaa&theme=flag-india)](https://git.io/streak-stats) <br>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaklambaa&layout=compact&hide_border=true" /></a>
 <br>
