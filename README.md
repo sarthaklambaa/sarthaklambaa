@@ -1,8 +1,8 @@
 ## ✨ About Me:
 - 👋 Hi, I’m @sarthaklambaa
-- 👨🏻‍🎓 I'm currently pursuing Bachelor's in Computer Applications
-- 👀 I’m interested in Python, JavaScript and Other Technical Stuff
-- 🌱 I’m currently learning Python(Flask & Django) and JavaScript
+- 👨🏻‍🎓 I'm currently pursuing a Bachelor's degree in Computer Applications.
+- 💻 My passions lie in the world of Python, Java, and all things technical.
+- 🌱 Currently, I'm deep into mastering Python and Java, constantly expanding my programming horizons.
 </br>
 
 ## 📞Contact Me
