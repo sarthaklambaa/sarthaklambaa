@@ -5,7 +5,7 @@
 - 🌱 Currently, I'm deep into mastering Python and Java, constantly expanding my programming horizons.
 </br>
 
-## 📞Contact Me
+## 📞Contact Me:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sarthaklamba.in/)
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaklambaa/)
 [![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samlamba29@gmail.com/)
