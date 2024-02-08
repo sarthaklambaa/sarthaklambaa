@@ -3,7 +3,7 @@
 - 👨🏻‍🎓 I'm currently pursuing a Bachelor's degree in Computer Applications.
 - 💻 My passions lie in the world of Python, Java, and all things technical.
 - 🌱 Currently, I'm deep into mastering Python and Java, constantly expanding my programming horizons.
-</br>
+<br>
 
 ## 📞Contact Me:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sarthaklamba.in/)
