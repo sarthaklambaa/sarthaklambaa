@@ -1,8 +1,8 @@
 ## ✨ About Me:
 - 👋 Hi, I’m @sarthaklambaa
 - 👨🏻‍🎓 I'm currently pursuing a Bachelor's degree in Computer Applications.
-- 💻 My passions lie in the world of Python, Java, and all things technical.
-- 🌱 Currently, I'm deep into mastering Python and Java, constantly expanding my programming horizons.
+- 💻 My passions revolve around the realm of data science and analytics, where I delve into the intricate workings of algorithms and datasets.
+- 🌱 Currently, I'm immersed in honing my skills in Python and SQL, continuously broadening my analytical toolkit and exploring the depths of data manipulation and visualization.
 <br>
 
 ## 📞Contact Me:
